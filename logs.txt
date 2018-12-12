@@ -1,0 +1,7 @@
+2018-12-12 13:04:07,242 DEBUG    [app.py:13] Debug
+2018-12-12 13:04:07,243 INFO     [app.py:14] This will not show up.
+2018-12-12 13:04:07,243 WARNING  [app.py:15] This will.
+2018-12-12 13:04:07,243 ERROR    [app.py:16] Error
+2018-12-12 13:04:07,243 CRITICAL [app.py:17] Critical Error
+2018-12-12 13:04:07,243 DEBUG    [app.py:18] This is a debug message.
+2018-12-12 13:04:07,243 CRITICAL [app.py:19] A critical error occurred.
